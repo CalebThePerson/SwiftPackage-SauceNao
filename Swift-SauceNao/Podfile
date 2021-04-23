@@ -1,0 +1,5 @@
+platform :ios, '12.0'
+
+target 'Swift-SauceNao' do
+    pod 'Alamofire', '~> 4.7'
+end
